@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyAppSoulMili",
+    "slug": "MyAppSoulMili",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyAppSoulMili"
+}
